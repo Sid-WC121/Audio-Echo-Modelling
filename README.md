@@ -26,7 +26,7 @@ This project explores the simulation of environmental echo effects on audio sign
 
 Here we have mainly focusing on the Case 3: i,e. Student No - 3; Td1=0.35sec, Td2=0.65sec, G1=0.7, G2=0.3
 
-For further details refer the Report / Paper [DSPP_Project_Sid_WC121](./docs/DSPP_Project_Sid_WC121.pdf)
+For further details refer the Report / Paper <a href="https://github.com/Sid-WC121/Audio-Echo-Modelling/blob/main/docs/DSPP_Project_Sid_WC121.pdf" target="_blank">DSPP_Project_Sid_WC121</a>
   
 ## Methodology
 
