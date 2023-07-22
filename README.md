@@ -137,10 +137,6 @@ audiowrite("output_signal.wav", x, fs);
 
 ```
 
-## Feedback and Contributions
-
-We welcome feedback and suggestions from the open-source community. If you have any ideas or improvements, feel free to create an issue or suggest changes in the discussions .
-
 ## Acknowledgments
 
 I would like to express our gratitude to _**Dr. A. Manikandan**_ for supervising and guiding this research project.
