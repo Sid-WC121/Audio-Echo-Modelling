@@ -9,6 +9,25 @@ Audio-Echo-Modelling is a research project focused on simulating environmental e
 
 The primary objective of this study is to investigate the underlying mechanisms of audio signal processing related to echo generation and perception in diverse physical settings. We analyze how digital filters can accurately replicate the echoes that occur in real-world environments, providing valuable insights into the field of audio processing.
 
+# Abstract
+
+This project explores the simulation of environmental echo effects on audio signals using digital filters, aiming to replicate echoes found in mountainous areas when a person calls out. Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters are employed, with MATLAB used for implementation and "countdownfrom.mp3" as input. The results confirm the presence of disassembled echoes compared to the original audio. The research sheds light on audio signal processing mechanisms and the perception of echoes in diverse settings, contributing to advancements in audio processing and applications such as acoustic design and virtual reality audio experiences.
+
+<p align="center">
+  <img src="/docs/abstract.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 600px;"/>
+  <p align="center">Fig. 1: An echo-y sound environment: The audio reflections of a person's voice are heard coming from different mountains.</p>
+</p>
+
+
+<p align="center">
+  <img src="/docs/table.png" alt="Fig. 2: Table of Delays" style="height: 400px; width: 600px;"/>
+  <p align="center">Fig. 2: Table of Delays: Td1 represents the time delay for the first echo, Td2 represents the time delay for the second echo, G1 represents the attenuation factor for the first echo, and G2 represents the attenuation factor for the second echo.</p>
+</p>
+
+Here we have mainly focusing on the Case 3: i,e. Student No - 3; Td1=0.35sec, Td2=0.65sec, G1=0.7, G2=0.3
+
+For further details refer the Report / Paper [DSPP_Project_Sid_WC121](./docs/DSPP_Project_Sid_WC121.pdf)
+  
 ## Methodology
 
 The methodology involves designing digital filters, calculating delays, and attenuations based on specific parameters, including student numbers. We utilize MATLAB for filter implementation and use the "countdownfrom.mp3" speech file as the input for our simulations. The results are carefully examined and compared against the original audio to demonstrate the presence of disassembled echoes.
