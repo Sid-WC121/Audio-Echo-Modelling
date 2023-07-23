@@ -14,7 +14,7 @@ The primary objective of this study is to investigate the underlying mechanisms 
 This project explores the simulation of environmental echo effects on audio signals using digital filters, aiming to replicate echoes found in mountainous areas when a person calls out. Finite Impulse Response (FIR) and Infinite Impulse Response (IIR) filters are employed, with MATLAB used for implementation and "countdownfrom.mp3" as input. The results confirm the presence of disassembled echoes compared to the original audio. The research sheds light on audio signal processing mechanisms and the perception of echoes in diverse settings, contributing to advancements in audio processing and applications such as acoustic design and virtual reality audio experiences.
 
 <p align="center">
-  <img src="/docs/abstract.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 600px;"/>
+  <img src="/docs/abstract.png" alt="Fig. 1: An echo-y sound environment" style="height: 300px; width: 500px;"/>
   <p align="center">Fig. 1: An echo-y sound environment: The audio reflections of a person's voice are heard coming from different mountains.</p>
 </p>
 
